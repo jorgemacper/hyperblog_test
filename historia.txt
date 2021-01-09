@@ -1,0 +1,5 @@
+Este es un texto para el curso de GIT y Github de Platzi.
+
+El curso lo tomé antes de ayer.
+
+Estoy subiendo todo el temario a un Google Docs en Google Drive.
