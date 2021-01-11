@@ -3,3 +3,5 @@ Este es un texto para el curso de GIT y Github de Platzi.
 El curso lo tomé el 07/01/2021.
 
 Estoy subiendo todo el temario a un Google Docs que puedes encontrar en Google Drive.
+
+Es un curso que me está gustando...
