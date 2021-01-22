@@ -2,4 +2,6 @@ Este es un texto para el curso de GIT y Github de Platzi.
 
 El curso lo tomé hace una semana.
 
+Master 1
+
 Estoy subiendo todo el temario a un Google Docs en Google Drive.
