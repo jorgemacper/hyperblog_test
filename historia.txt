@@ -2,6 +2,8 @@ Este es un texto para el curso de GIT y Github de Platzi.
 
 El curso lo tomé hace una semana.
 
+Experimento 1
+
 Master 1
 
 Master 2
