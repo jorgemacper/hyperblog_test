@@ -8,11 +8,8 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Consejos sobre buenas prácticas
 * Trucos muy locos
 * Creado por el Platzi Team
-<<<<<<< HEAD
-=======
 * Incluye ejemplos en Windows, Linux y Max
 * Disponible para todas las edades
->>>>>>> readme-mejorado
 * Y mucho más...
 
 Recureda que **Este readme.md es una prueba**. Está creado como ejemplo para el curso de Git y Github y nunca parar de aprender.
